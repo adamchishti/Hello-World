@@ -1,2 +1,3 @@
 # Hello-World
-A kid walking to harvard classroom with no shoes and slandered looks.
+A kid walking in classroom
+Kid is trying to undertstand the culture.
